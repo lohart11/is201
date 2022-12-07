@@ -14,3 +14,11 @@
 .aboutimg{
     width: 50% !important;
 }
+.res{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    font-size: medium !important;
+}
+.restitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important; 
+    font-size: x-large !important;
+}

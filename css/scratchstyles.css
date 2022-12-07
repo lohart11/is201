@@ -1,0 +1,33 @@
+body{
+    color:black;
+    background-size: fill; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    font-weight: bold;
+    text-align: center; 
+    background-image: url(../assets/img/bg.jpg);
+}
+.news{
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+    font-size: xx-large;
+}
+.tbar{
+    background-color: rgb(223, 223, 223);
+    color: black;
+}
+.myimg{
+    text-align: center;
+}
+.mylist{
+    text-align: left;
+    font-size: medium;
+}
+.list{
+    font-size: small;
+    text-align: left;
+}
+.belle{
+    color: darkgoldenrod;
+}
