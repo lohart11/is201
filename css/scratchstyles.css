@@ -31,3 +31,11 @@ body{
 .belle{
     color: darkgoldenrod;
 }
+.footer{
+    background-color: rgb(223, 223, 223);
+    color: black;
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    height: 100px;
+}
